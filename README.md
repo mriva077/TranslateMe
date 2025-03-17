@@ -28,6 +28,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<div>
+    <a href="https://www.loom.com/share/21511635e6f340ec954acaf28e063d65">
+    </a>
+    <a href="https://www.loom.com/share/21511635e6f340ec954acaf28e063d65">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/21511635e6f340ec954acaf28e063d65-b78db56595de6c94-full-play.gif">
+    </a>
+  </div>
 
 
 
