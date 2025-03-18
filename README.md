@@ -5,7 +5,7 @@ Submitted by: **Mauricio Rivas**
 **TranslateMe** is an app that allows users to translate words, phrases, or sentences between different languages with ease. The app features a simple and intuitive interface where users can enter text, choose a target language, and instantly receive a translated output. Additionally, the app maintains a history of translations for quick reference and can be cleared when needed.
 
 
-Time spent: **36** hours spent in total
+Time spent: **50** hours spent in total
 
 ## Required Features
 
